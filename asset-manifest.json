@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio2/static/css/main.8aac3976.css",
+    "main.js": "/MyPortfolio2/static/js/main.2f9ee3c0.js",
+    "static/media/mypicture3.png": "/MyPortfolio2/static/media/mypicture3.aff72808d634e81722ef.png",
+    "static/media/uml.png": "/MyPortfolio2/static/media/uml.9c1a4d900333dea5f9a9.png",
+    "static/media/angular.png": "/MyPortfolio2/static/media/angular.b6d2a9dec3e43e0ffb95.png",
+    "static/media/javafx.png": "/MyPortfolio2/static/media/javafx.31b392db0c9e102a6b86.png",
+    "static/media/css.png": "/MyPortfolio2/static/media/css.4e67641bb68b658d9b2b.png",
+    "static/media/trello.png": "/MyPortfolio2/static/media/trello.a94b0a6d38d60223cfde.png",
+    "static/media/sql.png": "/MyPortfolio2/static/media/sql.e8e81f819030aa6b3368.png",
+    "static/media/github.png": "/MyPortfolio2/static/media/github.1b136cd11de4e9b17d88.png",
+    "static/media/react.png": "/MyPortfolio2/static/media/react.fd373eec9017cf21b26d.png",
+    "static/media/javascript.png": "/MyPortfolio2/static/media/javascript.26cc380eedcd3ea3d29a.png",
+    "static/media/address.png": "/MyPortfolio2/static/media/address.6e4cd2a59185ad769622.png",
+    "static/media/bootstrap.png": "/MyPortfolio2/static/media/bootstrap.e94a80856cc0cb492938.png",
+    "static/media/csharp.png": "/MyPortfolio2/static/media/csharp.7f58ab59750a276a404e.png",
+    "static/media/html.png": "/MyPortfolio2/static/media/html.33745eadd572612bdf11.png",
+    "static/media/scrumwise.png": "/MyPortfolio2/static/media/scrumwise.84eed3d1e13f2582a102.png",
+    "static/media/kotlin.png": "/MyPortfolio2/static/media/kotlin.6cc17634bf6dbe8dba80.png",
+    "static/media/agile.png": "/MyPortfolio2/static/media/agile.17134802387ad70dc5c0.png",
+    "index.html": "/MyPortfolio2/index.html",
+    "main.8aac3976.css.map": "/MyPortfolio2/static/css/main.8aac3976.css.map",
+    "main.2f9ee3c0.js.map": "/MyPortfolio2/static/js/main.2f9ee3c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aac3976.css",
+    "static/js/main.2f9ee3c0.js"
+  ]
+}
